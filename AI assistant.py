@@ -7,8 +7,7 @@ import datetime
 import random
 import pywhatkit
 
-# Define your OpenAI API key
-apikey =  # "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"
+apikey =  # ""
 
 chatStr = ""
 
