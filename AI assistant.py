@@ -85,7 +85,6 @@ if __name__ == '__main__':
             say(f"Sir time is {hour} and {min} minutes")
 
         elif "open pass" in query.lower():
-            # You might need to replace this path with the actual path of the program
             os.startfile(r"C:\Program Files\Passky\Passky.exe")
         elif "search" in query.lower():
             search_query = query.replace("search", "").strip()
